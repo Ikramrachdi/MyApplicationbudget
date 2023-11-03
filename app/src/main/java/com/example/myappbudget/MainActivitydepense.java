@@ -27,7 +27,6 @@ public class MainActivitydepense extends AppCompatActivity {
     private EditText totaldepenses;
     private Button btnSerialiser;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
